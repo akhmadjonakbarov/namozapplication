@@ -1,0 +1,15 @@
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/url_launcher_windows_plugin.dll
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/flutter_assets/assets/images/books.png
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/flutter_assets/assets/images/dua.png
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/flutter_assets/assets/images/quran.png
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/flutter_assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/flutter_assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html
+C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/runner/Debug/data/flutter_assets/packages/youtube_player_flutter/assets/speedometer.webp

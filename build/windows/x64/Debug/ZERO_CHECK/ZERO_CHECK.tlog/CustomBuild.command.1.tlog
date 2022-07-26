@@ -1,0 +1,10 @@
+^C:\USERS\AKBAROV\DESKTOP\FLUTTERPROJECTS\NAMOZAPP\BUILD\WINDOWS\CMAKEFILES\D62B206F0050FB8ADC743499AC4ACFF1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/akbarov/Desktop/flutterProjects/namozapp/windows -BC:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/akbarov/Desktop/flutterProjects/namozapp/build/windows/namozapp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
